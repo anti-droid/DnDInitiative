@@ -22,11 +22,18 @@ Console.WriteLine("-------------");
 Console.WriteLine("The initiative order is:");
 Console.WriteLine("-------------");
 Console.WriteLine(string.Join("\n\r",characters));
-
-class Character : IComparable<Character>
+while (true)
 {
-    string name;
-    int initiative;
+    foreach(Character character in characters)
+    {
+        Console.WriteLine($"It is now {character.name}'s turn");
+        Console.ReadLine();
+    }
+}
+public class Character : IComparable<Character>
+{
+    public string name;
+    public int initiative;
     public Character(string name, int initiative)
     {
         this.name = name;
