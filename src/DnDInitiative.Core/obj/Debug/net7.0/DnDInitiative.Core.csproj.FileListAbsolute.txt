@@ -1,0 +1,11 @@
+C:\Users\anton\GitHub\DnDInitiative\src\DnDInitiative.Core\bin\Debug\net7.0\DnDInitiative.Core.deps.json
+C:\Users\anton\GitHub\DnDInitiative\src\DnDInitiative.Core\bin\Debug\net7.0\DnDInitiative.Core.dll
+C:\Users\anton\GitHub\DnDInitiative\src\DnDInitiative.Core\bin\Debug\net7.0\DnDInitiative.Core.pdb
+C:\Users\anton\GitHub\DnDInitiative\src\DnDInitiative.Core\obj\Debug\net7.0\DnDInitiative.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\GitHub\DnDInitiative\src\DnDInitiative.Core\obj\Debug\net7.0\DnDInitiative.Core.AssemblyInfoInputs.cache
+C:\Users\anton\GitHub\DnDInitiative\src\DnDInitiative.Core\obj\Debug\net7.0\DnDInitiative.Core.AssemblyInfo.cs
+C:\Users\anton\GitHub\DnDInitiative\src\DnDInitiative.Core\obj\Debug\net7.0\DnDInitiative.Core.csproj.CoreCompileInputs.cache
+C:\Users\anton\GitHub\DnDInitiative\src\DnDInitiative.Core\obj\Debug\net7.0\DnDInitiative.Core.dll
+C:\Users\anton\GitHub\DnDInitiative\src\DnDInitiative.Core\obj\Debug\net7.0\refint\DnDInitiative.Core.dll
+C:\Users\anton\GitHub\DnDInitiative\src\DnDInitiative.Core\obj\Debug\net7.0\DnDInitiative.Core.pdb
+C:\Users\anton\GitHub\DnDInitiative\src\DnDInitiative.Core\obj\Debug\net7.0\ref\DnDInitiative.Core.dll

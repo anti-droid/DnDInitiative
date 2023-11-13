@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DnDInitiative.Web/1.0.0": {
+        "dependencies": {
+          "DnDInitiative.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "DnDInitiative.Web.dll": {}
+        }
+      },
+      "DnDInitiative.Infrastructure/1.0.0": {
+        "runtime": {
+          "DnDInitiative.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DnDInitiative.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DnDInitiative.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
